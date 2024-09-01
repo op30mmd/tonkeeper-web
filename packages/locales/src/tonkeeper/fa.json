@@ -254,27 +254,27 @@
         "subtitle" : "وارد کردن مقدار دستی",
         "title" : "دیگر"
       },
-      "title" : "Recharge",
-      "title_gift" : "Gift",
-      "tokens" : "Tokens"
+      "title" : "شارژ دوباره",
+      "title_gift" : "هدیه",
+      "tokens" : "توکن ها"
     },
-    "refilled" : "Battery refilled",
+    "refilled" : "باتری پر شد",
     "refund" : {
-      "subtitle" : "Recharges and refunds",
-      "title" : "Charge History"
+      "subtitle" : "شارژ ها و بازگشت وجه ها",
+      "title" : "تاریخچه شارژ"
     },
-    "screen_title" : "Battery",
+    "screen_title" : "باتری",
     "send_widget" : {
-      "battery" : "Battery"
+      "battery" : "باتری"
     },
-    "settings" : "Battery",
-    "title" : "Tonkeeper Battery",
+    "settings" : "باتری",
+    "title" : "باتری تون کیپر",
     "transactions" : {
       "charges_per_action" : {
-        "few" : "≈ {count} charges per {transactionName}",
-        "many" : "≈ {count} charges per {transactionName}",
-        "one" : "≈ {count} charge per {transactionName}",
-        "other" : "≈ {count} charges per {transactionName}"
+        "few" : "≈ {count} شارژ در {transactionName}",
+        "many" : "≈ {count} شارژ در {transactionName}",
+        "one" : "≈ {count} شارژ در {transactionName}",
+        "other" : "≈ {count} شارژ در {transactionName}"
       },
       "description" : "Selected transactions will be paid by Tonkeeper Battery.",
       "settings" : "Battery Settings",
